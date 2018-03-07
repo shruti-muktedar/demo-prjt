@@ -1,0 +1,9 @@
+C:\keys
+
+
+
+jenkins passowrd: vi /var/lib/jenkins/secrets/initialAdminPassword
+
+/var/lib/jenkins=jenkins_home
+
+jenkins congif file =    /etc/sysconfig/jenkins 
